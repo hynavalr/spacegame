@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1BX02EauvY+tAiMUbeTVVXEsBT2JeZ4VHeRYOMNQ4yxxliHcfRykLMLsHi0UL/zEAiogbUlRsb1VSjzTwBkRQ==",
+  "success": true,
+  "projectFilePath": "/home/rlavanchy/Documents/development/vscode/azure/learningpaths/build-app-with-azure-devops/spacegame/mslearn-tailspin-spacegame-web/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+  "expectedPackageFiles": [
+    "/home/rlavanchy/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
